@@ -130,13 +130,5 @@ npm start
 ## 🤝 Contribution
 
 Feel free to fork, raise issues, or open pull requests.
-
-```bash
-git clone https://github.com/Sunilsahoo96/Excel-Analytics.git
-```
-
 ---
 
-## 📄 License
-
-MIT License © 2025 Sunil Sahoo
